@@ -1,0 +1,13 @@
+{
+    "name": "2DImageSeg",
+    "labels": {
+        "background": 0,
+        "tooth": 1
+    },
+    "channel_names": {
+        "0": "GRAYSCALE"
+    },
+    "numTraining": 2900,
+    "file_ending": ".png",
+    "overwrite_image_reader_writer": "SimpleITKIO"
+}

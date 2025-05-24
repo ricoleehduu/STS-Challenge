@@ -24,6 +24,16 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 
 ------
 
+## ⭐ **Baseline Configuration and Checkpoints**
+
+| Track | Configuration | Checkpoints                                                  | Methods                                      |
+| ----- | ------------- | ------------------------------------------------------------ | -------------------------------------------- |
+| 2D    | louxianihao   | [Read Report](participants/2D-第一名-楼下你好.md)            | [nnUNet](https://github.com/MIC-DKFZ/nnUNet) |
+| 3D    | baozaifan     | [Read Report](participants/2D-第二名-煲仔饭在煲-技术报告.pdf) | [nnUNet](https://github.com/MIC-DKFZ/nnUNet) |
+
+
+
+
 ## 🏆 **Technical reports and codes of Top participants**
 
 ### **2D Track Top 7**
