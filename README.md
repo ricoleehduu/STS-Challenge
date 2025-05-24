@@ -28,8 +28,8 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 
 | Track | Configuration | Checkpoints                                                  | Methods                                      |
 | ----- | ------------- | ------------------------------------------------------------ | -------------------------------------------- |
-| 2D    | louxianihao   | [Read Report](participants/2D-第一名-楼下你好.md)            | [nnUNet](https://github.com/MIC-DKFZ/nnUNet) |
-| 3D    | baozaifan     | [Read Report](participants/2D-第二名-煲仔饭在煲-技术报告.pdf) | [nnUNet](https://github.com/MIC-DKFZ/nnUNet) |
+| 2D    | [2D Configuration](configuration/2D/)   | [2D Pretrained Checkpoints](baseline_checkpoints/2d-checkpoint_best.pth)            | [nnUNet](https://github.com/MIC-DKFZ/nnUNet) |
+| 3D    | [3D Configuration](configuration/3D/)      | [3D Pretrained Checkpoints](baseline_checkpoints/3d-checkpoint_best.pth) | [nnUNet](https://github.com/MIC-DKFZ/nnUNet) |
 
 
 
