@@ -30,25 +30,25 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 
 | Rank | Team ID        | Technical Report                                             | Code                                                         |
 | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | louxianihao       | [Read Paper](participants/2D-第一名-楼下你好.md)             | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
-| 2    | baozaifan     | [Read Paper](participants/2D-第二名-煲仔饭在煲-技术报告.pdf) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
-| 3    | c_c            | [Read Paper](participants/2D-第三名-c_c技术说明(中文).pdf)   | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
-| 4    | HDU one       | [Read Paper](participants/2D-第四名-HDU%20NO.1-技术说明.docx) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
-| 5    | podi | [Read Paper](participants/2D-第五名-我一人便可破敌-技术说明.docx) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
-| 6    | One Piece      | [Read Paper](participants/2D-第六名-One%20Piece-技术说明.docx) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
-| 7    | A100x8         | [Read Paper](participants/2D-第七名-A100x8-技术说明.docx)    | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 1    | louxianihao       | [Read Report](participants/2D-第一名-楼下你好.md)             | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 2    | baozaifan     | [Read Report](participants/2D-第二名-煲仔饭在煲-技术报告.pdf) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 3    | c_c            | [Read Report](participants/2D-第三名-c_c技术说明(中文).pdf)   | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 4    | HDU one       | [Read Report](participants/2D-第四名-HDU%20NO.1-技术说明.docx) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 5    | podi | [Read Report](participants/2D-第五名-我一人便可破敌-技术说明.docx) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 6    | One Piece      | [Read Report](participants/2D-第六名-One%20Piece-技术说明.docx) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 7    | A100x8         | [Read Report](participants/2D-第七名-A100x8-技术说明.docx)    | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 
 ### **3D Track Top 7**
 
-| Rank | Team ID   | Paper                                                       | Code                                                         |
+| Rank | Team ID   | Technical Report                                                       | Code                                                         |
 | ---- | --------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| 1    | RoboSurge | [Read Paper](participants/3D-第一名-RoboSurge-技术说明.pdf) | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
-| 2    | Yxx       | [Read Paper](participants/3D-第二名-Yxx-技术说明-中文.pdf)  | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
-| 3    | GUET-IICI | [Read Paper](participants/3D-3-GUET-IICI-技术说明_中文.pdf) | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
-| 4    | IGIP-CBCT | [Read Paper](participants/3D-第4名-IGIP-CBCT-技术说明.docx) | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
-| 5    | sdkxd     | [Read Paper](participants/3D-第五名-sdkxd.docx)             | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
-| 6    | A100x8    | [Read Paper](participants/3D-第六名-A100x8-技术说明.docx)   | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
-| 7    | solo      | [Read Paper](participants/3D-第7名-单打独斗-技术说明.docx)  | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 1    | RoboSurge | [Read Report](participants/3D-第一名-RoboSurge-技术说明.pdf) | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 2    | Yxx       | [Read Report](participants/3D-第二名-Yxx-技术说明-中文.pdf)  | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 3    | GUET-IICI | [Read Report](participants/3D-3-GUET-IICI-技术说明_中文.pdf) | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 4    | IGIP-CBCT | [Read Report](participants/3D-第4名-IGIP-CBCT-技术说明.docx) | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 5    | sdkxd     | [Read Report](participants/3D-第五名-sdkxd.docx)             | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 6    | A100x8    | [Read Report](participants/3D-第六名-A100x8-技术说明.docx)   | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 7    | solo      | [Read Report](participants/3D-第7名-单打独斗-技术说明.docx)  | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
 
 ------
 
@@ -122,7 +122,7 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 ```
 STS-Challenge/
 ├── documentation/           # Technical specs & rulebooks  
-├── participants/            # Team submissions (code/paper/presentation)  
+├── participants/            # Team submissions (code/Report/presentation)  
 │   └── Team-ID/           # Team-specific materials  
 ├── assets/                  # Visual assets (dataset examples, workflow diagrams)  
 └── README.md                # This file  
