@@ -16,11 +16,11 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 
 ### 2D Track
 
-![](C:\work\2025-05-14\code\STS-Challenge\STS-Challenge\assets\2D-segmentation.png)
+![](assets/2D-segmentation.png)
 
 ### 3D Track
 
-![](C:\work\2025-05-14\code\STS-Challenge\STS-Challenge\assets\3D-segmemtation.png)
+![](assets/3D-segmemtation.png)
 
 ------
 
@@ -56,15 +56,15 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 
 **2D Leadboard**
 
-![](C:\work\2025-05-14\code\STS-Challenge\STS-Challenge\assets\2D-leaderboard.png)
+![](assets/2D-leaderboard.png)
 
-![](C:\work\2025-05-14\code\STS-Challenge\STS-Challenge\assets\2D-leaderboard-1.png)
+![](assets/2D-leaderboard-1.png)
 
 **3D Leadboard**
 
-![](C:\work\2025-05-14\code\STS-Challenge\STS-Challenge\assets\3D-leadboard.png)
+![](assets/3D-leadboard.png)
 
-![image-20250524104422412](C:\work\2025-05-14\code\STS-Challenge\STS-Challenge\assets\image-20250524104422412.png)
+![image-20250524104422412](assets/image-20250524104422412.png)
 
 ## 📁 **Dataset & Resources**
 
