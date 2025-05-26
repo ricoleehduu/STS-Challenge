@@ -45,7 +45,7 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 | 3    | c_c            | [Read Report](participants-technicalreport/2D-Rank3-c_c.pdf)             | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 | 4    | HDU one       | [Read Report](participants-technicalreport/2D-Rank4-HDU_one.pdf)         | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 | 5    | podi | [Read Report](participants-technicalreport/2D-Rank5-podi-mono.pdf)       | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
-| 6    | One Piece      | [Read Report](participants-technicalreport/2D-Rank6-One Piece.pdf)       | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 6    | One Piece      | [Read Report](participants-technicalreport/2D-Rank6-One_Piece.pdf)       | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 | 7    | A100x8         | [Read Report](participants-technicalreport/2D-Rank7-A100x8.pdf)          | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 | 8    | dog team         | [Read Report](participants/2D-第七名-A100x8-技术说明.docx)    | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 | 9    | Gostraight         | [Read Report](participants/2D-第七名-A100x8-技术说明.docx)    | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
