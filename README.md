@@ -36,7 +36,7 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 
 ## 🏆 **Technical reports and codes of Top participants**
 
-### **2D Track Top 7**
+### **2D Track Top 10**
 
 | Rank | Team ID        | Technical Report                                             | Code                                                         |
 | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -47,8 +47,13 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 | 5    | podi | [Read Report](participants/2D-第五名-我一人便可破敌-技术说明.docx) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 | 6    | One Piece      | [Read Report](participants/2D-第六名-One%20Piece-技术说明.docx) | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 | 7    | A100x8         | [Read Report](participants/2D-第七名-A100x8-技术说明.docx)    | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 8    | dog team         | [Read Report](participants/2D-第七名-A100x8-技术说明.docx)    | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 9    | Gostraight         | [Read Report](participants/2D-第七名-A100x8-技术说明.docx)    | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
+| 10    | do you want to         | [Read Report](participants/2D-第七名-A100x8-技术说明.docx)    | [Download Code](https://pan.baidu.com/s/15bVgpJ1juWX3r_rvVaAyeQ?pwd=z2py) |
 
-### **3D Track Top 7**
+
+
+### **3D Track Top 10**
 
 | Rank | Team ID   | Technical Report                                                       | Code                                                         |
 | ---- | --------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
@@ -59,6 +64,9 @@ This challenge aims to advance dental segmentation techniques in both **2D panor
 | 5    | sdkxd     | [Read Report](participants/3D-第五名-sdkxd.docx)             | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
 | 6    | A100x8    | [Read Report](participants/3D-第六名-A100x8-技术说明.docx)   | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
 | 7    | solo      | [Read Report](participants/3D-第7名-单打独斗-技术说明.docx)  | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 8    | TheStranger      | [Read Report](participants/3D-第7名-单打独斗-技术说明.docx)  | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 9    | hotpot      | [Read Report](participants/3D-第7名-单打独斗-技术说明.docx)  | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
+| 10    | GoStraight      | [Read Report](participants/3D-第7名-单打独斗-技术说明.docx)  | [Download Code](https://pan.baidu.com/s/1C3l6fN0Z1G256C6LaDGICQ?pwd=wsje) |
 
 ------
 
